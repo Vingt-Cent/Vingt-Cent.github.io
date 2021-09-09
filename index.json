@@ -6,14 +6,19 @@
         "majeur": "3.mp3"
       },
       "Batterie classique": {
-        "pouce": "...",
-        "index": "...",
-        "majeur": "..."
+        "pouce": "Grosse_caisse.mp3",
+        "index": "Caisse_claire.mp3",
+        "majeur": "Cymbale.mp3"
       },
       "Piano": {
-        "pouce": "...",
-        "index": "...",
-        "majeur": "..."
+        "pouce": "Do_Piano.mp3",
+        "index": "Mi_Piano.mp3",
+        "majeur": "Re_Piano.mp3"
+      },
+      "Violon": {
+        "pouce": "Violon_1.mp3",
+        "index": "Violon_2.mp3",
+        "majeur": "Violon_3.mp3"
       }
     }
 }
