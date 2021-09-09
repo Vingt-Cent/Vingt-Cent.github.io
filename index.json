@@ -1,0 +1,19 @@
+{
+    "instruments": {
+      "Batterie électronique": {
+        "pouce": "1.mp3",
+        "index": "2.mp3",
+        "majeur": "3.mp3"
+      },
+      "Batterie classique": {
+        "pouce": "...",
+        "index": "...",
+        "majeur": "..."
+      },
+      "Piano": {
+        "pouce": "...",
+        "index": "...",
+        "majeur": "..."
+      }
+    }
+}
