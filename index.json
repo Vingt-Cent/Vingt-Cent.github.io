@@ -4,7 +4,7 @@
         "pouce": "1.mp3",
         "index": "2.mp3",
         "majeur": "3.mp3",
-        "image": "Battrerie1.jpg"
+        "image": "Battrerie2.jpg"
       },
       "Batterie classique": {
         "pouce": "Grosse_caisse.mp3",
@@ -16,13 +16,13 @@
         "pouce": "Do_Piano.mp3",
         "index": "Mi_Piano.mp3",
         "majeur": "Re_Piano.mp3",
-        "image": "Piano.jpg"
+        "image": "Battrerie2.jpg"
       },
       "Violon": {
         "pouce": "Violon_1.mp3",
         "index": "Violon_2.mp3",
         "majeur": "Violon_3.mp3",
-        "image": "Violon.jpg"
+        "image": "Battrerie2.jpg"
       }
     }
 }
