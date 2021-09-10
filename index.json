@@ -1,28 +1,30 @@
-{
-    "instruments": {
-      "Batterie électronique": {
-        "pouce": "1.mp3",
-        "index": "2.mp3",
-        "majeur": "3.mp3",
-        "image": "Battrerie.jpg"
-      },
-      "Batterie classique": {
-        "pouce": "Grosse_caisse.mp3",
-        "index": "Caisse_claire.mp3",
-        "majeur": "Cymbale.mp3",
-        "image": "Battrerie2.jpg"
-      },
-      "Piano": {
-        "pouce": "Do_Piano.mp3",
-        "index": "Mi_Piano.mp3",
-        "majeur": "Re_Piano.mp3",
-        "image": "Piano.jpg"
-      },
-      "Violon": {
-        "pouce": "Violon_1.mp3",
-        "index": "Violon_2.mp3",
-        "majeur": "Violon_3.mp3",
-        "image": "Battrerie2.jpg"
-      }
-    }
-}
+[
+  {
+      "nom": "Batterie électronique",
+      "pouce": "1.mp3",
+      "index": "2.mp3",
+      "majeur": "3.mp3",
+      "image": "Battrerie.jpg"
+  },
+  {
+      "nom": "Batterie classique",
+      "pouce": "Grosse_caisse.mp3",
+      "index": "Caisse_claire.mp3",
+      "majeur": "Cymbale.mp3",
+      "image": "Battrerie2.jpg"
+  },
+  {
+      "nom": "Piano", 
+      "pouce": "Do_Piano.mp3",
+      "index": "Re_Piano.mp3",
+      "majeur": "Mi_Piano.mp3",
+      "image": "Piano.jpg"
+  },
+  {
+      "nom": "Violon",
+      "pouce": "Violon_1.mp3",
+      "index": "Violon_2.mp3",
+      "majeur": "Violon_3.mp3",
+      "image": "Violon.jpg"
+  }
+]
