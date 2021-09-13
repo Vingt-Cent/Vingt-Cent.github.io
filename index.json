@@ -26,5 +26,11 @@
       "index": "Violon_2.mp3",
       "majeur": "Violon_3.mp3",
       "image": "Violon.jpg"
-  }
+  },
+  {"nom": "Xylophone",
+    "pouce": "Xylophone_1.mp3",
+    "index": "Xylophone_2.mp3",
+    "majeur": "Xylophone_3.mp3",
+    "image": "Xylophone.jpg"
+    }
 ]
