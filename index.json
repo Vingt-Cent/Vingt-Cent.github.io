@@ -33,6 +33,12 @@
     "majeur": "Xylophone_3.mp3",
     "image": "Xylophone.jpg"
     },
+    {"nom": "Accordion",
+        "pouce": "Accordion_1.mp3",
+        "index": "Accordion_2.mp3",
+        "majeur": "Accordion_3.mp3",
+        "image": "Accordion.jpg"
+        },
     {"nom": "Debout Marmotte",
         "pouce": "Marmotte_1.mp3",
         "index": "Marmotte_2.mp3",
