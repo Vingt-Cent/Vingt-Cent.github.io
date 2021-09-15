@@ -1,48 +1,58 @@
 [
-  {
+    {
       "nom": "Batterie électronique",
       "pouce": "1.mp3",
       "index": "2.mp3",
       "majeur": "3.mp3",
       "image": "Battrerie1.jpg"
-  },
-  {
+    },
+    {
       "nom": "Batterie classique",
       "pouce": "Grosse_caisse.mp3",
       "index": "Caisse_claire.mp3",
       "majeur": "Cymbale.mp3",
       "image": "Battrerie2.jpg"
-  },
-  {
+    },
+    {
       "nom": "Piano", 
       "pouce": "Do_Piano.mp3",
       "index": "Re_Piano.mp3",
       "majeur": "Mi_Piano.mp3",
       "image": "Piano.jpg"
-  },
-  {
+    },
+    {
       "nom": "Violon",
       "pouce": "Violon_1.mp3",
       "index": "Violon_2.mp3",
       "majeur": "Violon_3.mp3",
       "image": "Violon.jpg"
-  },
-  {"nom": "Xylophone",
-    "pouce": "Xylophone_1.mp3",
-    "index": "Xylophone_2.mp3",
-    "majeur": "Xylophone_3.mp3",
-    "image": "Xylophone.jpg"
     },
-    {"nom": "Accordion",
+    {
+      "nom": "Xylophone",
+      "pouce": "Xylophone_1.mp3",
+      "index": "Xylophone_2.mp3",
+      "majeur": "Xylophone_3.mp3",
+      "image": "Xylophone.jpg"
+    },
+    {
+        "nom": "Accordion",
         "pouce": "Accordion_1.mp3",
         "index": "Accordion_2.mp3",
         "majeur": "Accordion_3.mp3",
         "image": "Accordion.jpg"
-        },
-    {"nom": "Debout Marmotte",
+    },
+    {
+        "nom": "Sax",
+        "pouce": "Sax_1.mp3",
+        "index": "Sax_2.mp3",
+        "majeur": "Sax_3.mp3",
+        "image": "Sax.jpg"
+    },
+    {
+        "nom": "Debout Marmotte",
         "pouce": "Marmotte_1.mp3",
         "index": "Marmotte_2.mp3",
         "majeur": "Marmotte_3.mp3",
         "image": "Marmotte.jpg"
-        }
+    }
 ]
