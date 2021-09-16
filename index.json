@@ -49,6 +49,13 @@
         "image": "Sax.jpg"
     },
     {
+      "nom": "Crazy Frog",
+      "pouce": "Frog_1.mp3",
+      "index": "Frog_2.mp3",
+      "majeur": "Frog_3.mp3",
+      "image": "Frog.jpg"
+    },
+    {
         "nom": "Debout Marmotte",
         "pouce": "Marmotte_1.mp3",
         "index": "Marmotte_2.mp3",
