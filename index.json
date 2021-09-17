@@ -1,65 +1,65 @@
 [
     {
       "nom": "Batterie électronique",
-      "pouce": "1.mp3",
-      "index": "2.mp3",
-      "majeur": "3.mp3",
-      "image": "Battrerie1.jpg"
+      "pouce": "/Baterrie_Electrique/1.mp3",
+      "index": "/Baterrie_Electrique/2.mp3",
+      "majeur": "/Baterrie_Electrique/3.mp3",
+      "image": "/Baterrie_Electrique/Baterrie_Electrique.jpg"
     },
     {
       "nom": "Batterie classique",
-      "pouce": "Grosse_caisse.mp3",
-      "index": "Caisse_claire.mp3",
-      "majeur": "Cymbale.mp3",
-      "image": "Battrerie2.jpg"
+      "pouce": "/Baterrie_Classique/Grosse_caisse.mp3",
+      "index": "/Baterrie_Classique/Caisse_claire.mp3",
+      "majeur": "/Baterrie_Classique/Cymbale.mp3",
+      "image": "/Baterrie_Classique/Baterrie_Classique.jpg"
     },
     {
       "nom": "Piano", 
-      "pouce": "Do_Piano.mp3",
-      "index": "Re_Piano.mp3",
-      "majeur": "Mi_Piano.mp3",
-      "image": "Piano.jpg"
+      "pouce": "/Piano/Do_Piano.mp3",
+      "index": "/Piano/Re_Piano.mp3",
+      "majeur": "/Piano/Mi_Piano.mp3",
+      "image": "/Piano/Piano.jpg"
     },
     {
       "nom": "Violon",
-      "pouce": "Violon_1.mp3",
-      "index": "Violon_2.mp3",
-      "majeur": "Violon_3.mp3",
-      "image": "Violon.jpg"
+      "pouce": "/Violon/Violon_1.mp3",
+      "index": "/Violon/Violon_2.mp3",
+      "majeur": "/Violon/Violon_3.mp3",
+      "image": "/Violon/Violon.jpg"
     },
     {
       "nom": "Xylophone",
-      "pouce": "Xylophone_1.mp3",
-      "index": "Xylophone_2.mp3",
-      "majeur": "Xylophone_3.mp3",
-      "image": "Xylophone.jpg"
+      "pouce": "/Xylophone/Xylophone_1.mp3",
+      "index": "/Xylophone/Xylophone_2.mp3",
+      "majeur": "/Xylophone/Xylophone_3.mp3",
+      "image": "/Xylophone/Xylophone.jpg"
     },
     {
         "nom": "Accordion",
-        "pouce": "Accordion_1.mp3",
-        "index": "Accordion_2.mp3",
-        "majeur": "Accordion_3.mp3",
-        "image": "Accordion.jpg"
+        "pouce": "/Accordion/Accordion_1.mp3",
+        "index": "/Accordion/Accordion_2.mp3",
+        "majeur": "/Accordion/Accordion_3.mp3",
+        "image": "/Accordion/Accordion.jpg"
     },
     {
-        "nom": "Sax",
-        "pouce": "Sax_1.mp3",
-        "index": "Sax_2.mp3",
-        "majeur": "Sax_3.mp3",
-        "image": "Sax.jpg"
+        "nom": "Saxophone",
+        "pouce": "/Saxophone/Sax_1.mp3",
+        "index": "/Saxophone/Sax_2.mp3",
+        "majeur": "/Saxophone/Sax_3.mp3",
+        "image": "/Saxophone/Sax.jpg"
     },
     {
       "nom": "Crazy Frog",
-      "pouce": "Frog_1.mp3",
-      "index": "Frog_2.mp3",
-      "majeur": "Frog_3.mp3",
-      "image": "Frog.jpg"
+      "pouce": "/Frog/Frog_1.mp3",
+      "index": "/Frog/Frog_2.mp3",
+      "majeur": "/Frog/Frog_3.mp3",
+      "image": "/Frog/Frog.jpg"
     },
     {
         "nom": "Debout Marmotte",
-        "pouce": "Marmotte_1.mp3",
-        "index": "Marmotte_2.mp3",
-        "majeur": "Marmotte_3.mp3",
-        "image": "Marmotte.jpg"
+        "pouce": "/Marmotte/Marmotte_1.mp3",
+        "index": "/Marmotte/Marmotte_2.mp3",
+        "majeur": "/Marmotte/Marmotte_3.mp3",
+        "image": "/Marmotte/Marmotte.jpg"
     }
 ]
